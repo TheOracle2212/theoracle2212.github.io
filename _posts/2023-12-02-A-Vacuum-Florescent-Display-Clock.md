@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "A Vacuum fluorescent display clock #01 "
 mathjax: false
 layout: post
 categories: Clock, VFD, Arduino, Programming, GPS
