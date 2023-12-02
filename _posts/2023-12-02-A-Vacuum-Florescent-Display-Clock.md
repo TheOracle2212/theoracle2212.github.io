@@ -19,7 +19,8 @@ Once I got a simple clock piping the values from the GPS, adjusting it by a time
 
 ## Automatic dimming
 I plan to put this on my bedside table, and I really didn't want the bright screen disturbing my sleep, so I wanted it to dim automatically. There were two ways of going about this, adjusting the brightness based on the time of day, but my days aren't rigid and in place. So I used a ambient light sensor and read its analog value every 300 loops or so:
-`
+```
+{
 Serial.write(0x1B);
   if (countcycle == 10) {
     if (analogRead(A0) < 500) {
@@ -33,4 +34,5 @@ Serial.write(0x1B);
   }
   Serial.write(brightness);
   countcycle += 1;
-`
+}
+``` 
