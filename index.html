@@ -2,7 +2,8 @@
 layout: default
 title: "Home"
 ---
-<p>  Hi! </p>
+## Hi!
+
 <p>This is my blog, where's I'll regularly post what's happening on my messy desk.</p>
 
 <p>I'll do everything for electronics to programming projects in my spare time between studying.</p>
@@ -18,7 +19,7 @@ title: "Home"
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
+      {{ post.content | strip_html | truncatewords:75 }}
     </li>
   {% endfor %}
 </ul>
