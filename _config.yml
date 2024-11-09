@@ -24,7 +24,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/TheOracle2212"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
   - {title: Music!, icon: spotify, url: "https://open.spotify.com/playlist/4V1fRQ9Me62yk0fiUoIJ6q?si=krUVGv9lQ4CtBe679WMn_w"}
-</div>
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
