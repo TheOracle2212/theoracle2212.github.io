@@ -11,7 +11,7 @@ preeminence of computers, very few of us have stopped to think: Why?
 As it turns out, there's a very legacy-like reason. 
 Before computers, we had typewriters:
 
-(Early typewriter!)[https://image.invaluable.com/housePhotos/Lawsons/05/733505/H0669-L305593279_original.jpg]
+!(Early typewriter!)[https://image.invaluable.com/housePhotos/Lawsons/05/733505/H0669-L305593279_original.jpg]
 
 And the arms with ink that strike the page were mechanically fixed to the keys. So pressing a key caused an arm to press a thin layer of ink in the shape of a key on the paper. Neat! Since the arms couldn't be directly
 one one another (from one key on the keypad above another), the typewriter keypad layouts were slightly shifted. All the arms could very nicely fit without any additional mechanical work. As the masses began to learn to type
