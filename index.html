@@ -13,3 +13,12 @@ title: "Home"
 {% else %}
   {% include archive.html title="Posts" %}
 {% endif %}
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
