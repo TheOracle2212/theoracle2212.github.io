@@ -16,6 +16,11 @@ Before computers, we had typewriters:
 And the arms with ink that strike the page were mechanically fixed to the keys. So pressing a key caused an arm to press a thin layer of ink in the shape of a key on the paper. Neat! Since the arms couldn't be directly
 one one another (from one key on the keypad above another), the typewriter keypad layouts were slightly shifted. All the arms could very nicely fit without any additional mechanical work. As the masses began to learn to type
 on those typewriters, people simply accepted this layout. To be fair, we've reached exceptional speeds on a keyboard at speeds of above 300 words per minute - see Kurt Knutsson (I max out at a certain 103 words per minute on my Macbook Pro).
+
+---
+excerpt_separator: <!--more-->
+---
+
 However, the nature of nature is that we must evolve. We've done well as a race using the standard staggered QWERTY keyboard layout to reach decent levels of productivity, set some records and given Carpal Tunnel to ~ 4% of the adult population. 
 As an evolution, we must look back at the shape of the hand. Excersise your right (or left) pointer finger. Note its completely 1 dimensional and vertical motion. Why then, is our keyboard built for diagonal finger motion?
 
